@@ -4,10 +4,11 @@ Ce projet est une application web permettant aux utilisateurs de soumettre des d
 
 ## Technologies Utilisées 🛠️
 
-- **Langages**:
+- **Languages**:
   - HTML
   - PHP
   - JavaScript
+  - Scss
 
 - **Outils**:
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-joMYlv7qBgVLINKfNho7j-rbwuFtj2gPQ&s" width="50" height="50"> Xampp
